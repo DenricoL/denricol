@@ -3,6 +3,8 @@
 
  Graduando em Análise e Desenvolvimento de Sistemas no IFSP (2/6)
 
+ ✉️ delbing4768@gmail.com
+
 ## ⌨️ Linguagens
 | C++ | CSS | JS | HTML |
 |-----|----|----|------|
