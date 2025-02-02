@@ -10,7 +10,7 @@
 
 
 
-## 🤖 Tecnologias (IDEs)
+## 🤖 Ferramentas (IDEs)
 | CodeBlocks | VS Code |
 |------------|---------|
 | <p align="center"> <img src="https://img.icons8.com/color/512/code-blocks.png" width="40px"/> </p> | <p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="40px"/> </p> |
