@@ -6,11 +6,6 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Gmail_2020.png" width="30px" />](https://mail.google.com/mail/u/0/?fs=1&to=delbing4768@gmail.com)
 
 
-
-
-
-
-
 ## ⚙️ Linguagens & Ferramentas
 | C++ | CSS | JS | HTML | CodeBlocks | VS Code |
 |-----|-----|----|------|------------|---------|
@@ -18,8 +13,7 @@
 
 ## 📊 Estatísticas
 
-![DenricoL's Stats](https://github-readme-stats.vercel.app/api?username=DenricoL&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![DenricoL's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DenricoL&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=DenricoL&theme=chartreuse-dark&icons=true" Height = "200px " /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenricoL&layout=donut&theme=chartreuse-dark" Height = "200px" />
 <br>
 ![](https://komarev.com/ghpvc/?username=DenricoL&color=green)
 <!--
