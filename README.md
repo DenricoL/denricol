@@ -13,9 +13,18 @@
 
 ## 📊 Estatísticas
 
-<img src="https://github-readme-stats.vercel.app/api?username=DenricoL&theme=chartreuse-dark&icons=true" Height = "200px " /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenricoL&layout=donut&theme=chartreuse-dark" Height = "200px" />
+<img src="https://github-readme-stats.vercel.app/api?username=DenricoL&theme=chartreuse-dark&icons=true&border_color=32CD32" Height = "200px " /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenricoL&layout=donut&theme=chartreuse-dark&border_color=32CD32" Height = "200px" />
 <br>
-![](https://komarev.com/ghpvc/?username=DenricoL&color=green)
+![](https://komarev.com/ghpvc/?username=DenricoL&color=006400)
+
+<br>
+
+## Confira meu último projeto:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DenricoL&repo=Site_do_Flu&border_color=F0F8FF&title_color=008000&bg_color=000000&text_color=F0F8FF&icon_color=FF0000)](https://github.com/DenricoL/Site_do_Flu) 
+
+
+
 <!--
 **DenricoL/denricol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -35,6 +44,7 @@ Here are some ideas to get you started:
 |-----|----|----|------|
 | <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png" width="30px"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30px"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px"/> | <p align = "center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30px"/> </p> |
 
+<img src= "https://upload.wikimedia.org/wikipedia/commons/9/9c/BANDEIRA_FLU.png" width = 200px />
 
 
 ## 🤖 Ferramentas 
