@@ -5,17 +5,10 @@
 
  ✉️ delbing4768@gmail.com
 
-## ⌨️ Linguagens
-| C++ | CSS | JS | HTML |
-|-----|----|----|------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png" width="40px"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40px"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40px"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40px"/> |
-
-
-
-## 🤖 Ferramentas 
-| CodeBlocks | VS Code |
-|------------|---------|
-| <p align="center"> <img src="https://img.icons8.com/color/512/code-blocks.png" width="40px"/> </p> | <p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="40px"/> </p> |
+## ⚙️ Linguagens & Ferramentas
+| C++ | CSS | JS | HTML | CodeBlocks | VS Code |
+|-----|-----|----|------|------------|---------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png" width="30px"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30px"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px"/> | <p align = "center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30px"/> </p> | <p align="center"> <img src="https://img.icons8.com/color/512/code-blocks.png" width="40px"/> </p> | <p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="30px"/> </p> |
 
 ## 📊 Estatísticas
 
@@ -36,4 +29,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## ⌨️ Linguagens
+| C++ | CSS | JS | HTML |
+|-----|----|----|------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png" width="30px"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30px"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px"/> | <p align = "center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30px"/> </p> |
+
+
+
+## 🤖 Ferramentas 
+| CodeBlocks | VS Code |
+|------------|---------|
+| <p align="center"> <img src="https://img.icons8.com/color/512/code-blocks.png" width="30px"/> </p> | <p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="30px"/> </p> |
 -->
