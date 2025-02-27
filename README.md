@@ -3,7 +3,7 @@
 
  Graduando em Análise e Desenvolvimento de Sistemas no IFSP (3/6)
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Gmail_2020.png" width="30px" />](https://mail.google.com/mail/u/0/?fs=1&to=delbing4768@gmail.com)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Gmail_2020.png" width="30px" />](mailto:delbing4768@gmail.com)
 
 
 ## ⚙️ Linguagens & Ferramentas
