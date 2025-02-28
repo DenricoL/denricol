@@ -18,7 +18,7 @@
 
 ## 📊 Estatísticas
 
-<img src="https://github-readme-stats.vercel.app/api?username=DenricoL&theme=chartreuse-dark&icons=true&border_color=32CD32&pt-br" Height = "175px " /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenricoL&layout=compact&theme=chartreuse-dark&icons=true&border_color=32CD32" Height = "175px" />
+<img src="https://github-readme-stats.vercel.app/api?username=DenricoL&theme=chartreuse-dark&icons=true&border_color=32CD32&locale=pt-br" Height = "175px " /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenricoL&layout=compact&theme=chartreuse-dark&icons=true&border_color=32CD32&locale=pt-br" Height = "175px" />
 <br>
 ![](https://komarev.com/ghpvc/?username=DenricoL&color=006400)
 
@@ -26,7 +26,7 @@
 
 ## Confira meu último projeto:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DenricoL&repo=Site_do_Flu&border_color=FFFFFF&title_color=32CD32&bg_color=DEG,570303,5D5F5D,026505&text_color=32CD32&icon_color=FF0000)](https://github.com/DenricoL/Site_do_Flu) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DenricoL&repo=Site_do_Flu&border_color=FFFFFF&title_color=32CD32&bg_color=DEG,260000,292929,002b0b&text_color=ffffff&icon_color=FF0000)](https://github.com/DenricoL/Site_do_Flu) 
 
 
 
