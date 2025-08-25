@@ -1,5 +1,5 @@
  ## Douglas Loureiro
- https://app.milanote.com/1UQGiJ1hEs9t7w?p=qowSqXXlJl1
+
 <!--
 
 
