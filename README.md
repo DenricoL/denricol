@@ -1,23 +1,17 @@
  ## Douglas Loureiro
 
-<!--
-
-
-
-
-## ⚙️ Linguagens & Ferramentas
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Code::Blocks](https://img.shields.io/badge/Code::Blocks-41AD48.svg?style=for-the-badge&logo=Code::Blocks&logoColor=white)
-
--->
-
 <img src="https://github-readme-stats.vercel.app/api?username=DenricoL&theme=chartreuse-dark&icons=true&border_color=32CD32&locale=pt-br" Height = "175px " /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenricoL&layout=compact&theme=chartreuse-dark&icons=true&border_color=32CD32&locale=pt-br" Height = "175px" />
 <br>
 ![](https://komarev.com/ghpvc/?username=DenricoL&color=006400)
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ---
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
+![Code::Blocks](https://img.shields.io/badge/Code::Blocks-41AD48.svg?style=for-the-badge&logo=Code::Blocks&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <br>
 
