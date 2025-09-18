@@ -1,6 +1,7 @@
  ## Douglas Loureiro
-
-<img src="https://github-readme-stats.vercel.app/api?username=DenricoL&theme=chartreuse-dark&icons=true&border_color=32CD32&locale=pt-br" Height = "175px " /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenricoL&layout=compact&theme=chartreuse-dark&icons=true&border_color=32CD32&locale=pt-br" Height = "175px" />
+<!--
+<img src="https://github-readme-stats.vercel.app/api?username=DenricoL&theme=chartreuse-dark&icons=true&border_color=32CD32&locale=pt-br" Height = "175px " /> --> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenricoL&layout=compact&theme=chartreuse-dark&icons=true&border_color=32CD32&locale=pt-br" Height = "175px" />
 <br>
 ![](https://komarev.com/ghpvc/?username=DenricoL&color=006400)
 
