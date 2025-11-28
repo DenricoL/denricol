@@ -22,9 +22,9 @@ Hi! I'm a web developer and designer/editor.
 
 
 ## Latest projects :octocat:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DenricoL&repo=daylibras-webapp&border_color=FFFFFF&title_color=fff&bg_color=DEG,004080,b0e6ff&text_color=ffffff&icon_color=FF0000)](https://github.com/DenricoL/daylibras-webapp) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DenricoL&repo=daylibras-webapp&border_color=FFFFFF&title_color=fff&bg_color=DEG,004080,b0e6ff&text_color=ffffff&icon_color=fff)](https://github.com/DenricoL/daylibras-webapp) 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DenricoL&repo=Flusite&border_color=FFFFFF&title_color=32CD32&bg_color=DEG,260000,292929,002b0b&text_color=ffffff&icon_color=FF0000)](https://github.com/DenricoL/Site_do_Flu) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DenricoL&repo=Flusite&border_color=FFFFFF&title_color=fff&bg_color=DEG,260000,292929,002b0b&text_color=ffffff&icon_color=fff)](https://github.com/DenricoL/Site_do_Flu) 
 
 
 ## My stats
