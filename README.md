@@ -30,7 +30,7 @@ Hi! I'm a web developer and designer/editor.
 <img width="400" height="auto" alt="Flusite" src="https://github.com/user-attachments/assets/b47dee9c-46c0-44b9-8a1f-d222650a4ef7" />
 
 
-
+![](https://komarev.com/ghpvc/?username=DenricoL&color=006400)
 
 
 
