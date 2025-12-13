@@ -3,39 +3,46 @@ Hi! I'm a web developer and designer/editor.
 - I am currently studying Systems Analysis and Development, and improving my knowledge mainly in the areas of software development and UI/UX design.
 
 ## Main Tech Stack
+<!-- back-end -->
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 
-
+<!-- front-end -->
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+<!-- IDE -->
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Code::Blocks](https://img.shields.io/badge/Code::Blocks-41AD48.svg?style=for-the-badge&logo=Code::Blocks&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=for-the-badge&logo=Eclipse-IDE&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white)
 
+<!-- softwares -->
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black)
 
 
 ## Latest projects :octocat:
+<!-- DayLibras -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DenricoL&repo=daylibras-webapp&border_color=FFFFFF&title_color=fff&bg_color=DEG,004080,b0e6ff&text_color=ffffff&icon_color=fff)](https://github.com/DenricoL/daylibras-webapp)  <br>
 <img width="400" height="auto" alt="DayLibras" src="https://github.com/user-attachments/assets/444be527-4ece-485b-a1b8-72d2f9270150" />
 
-
+<!-- Flu -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DenricoL&repo=Flusite&border_color=FFFFFF&title_color=fff&bg_color=DEG,260000,292929,002b0b&text_color=ffffff&icon_color=fff)](https://github.com/DenricoL/Site_do_Flu) <br>
 <img width="400" height="auto" alt="Flusite" src="https://github.com/user-attachments/assets/b47dee9c-46c0-44b9-8a1f-d222650a4ef7" />
 
-
+<!-- views -->
 ![](https://komarev.com/ghpvc/?username=DenricoL&color=006400)
 
 
 
 
 <!--
+(nothing burger)
+
+
 **DenricoL/denricol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
