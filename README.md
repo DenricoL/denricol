@@ -33,13 +33,11 @@ Hi! I'm a web developer and designer/editor.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DenricoL&repo=daylibras-webapp&border_color=FFFFFF&title_color=fff&bg_color=DEG,004080,b0e6ff&text_color=ffffff&icon_color=fff)](https://github.com/DenricoL/daylibras-webapp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DenricoL&repo=Flusite&border_color=FFFFFF&title_color=fff&bg_color=DEG,260000,292929,002b0b&text_color=ffffff&icon_color=fff)](https://github.com/DenricoL/Site_do_Flu)
 
-
+## My stats
+<img src="https://github-readme-stats.vercel.app/api?username=DenricoL&theme=chartreuse-dark&icons=true&border_color=32CD32&locale=pt-br" Height = "155px " /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenricoL&layout=compact&theme=chartreuse-dark&icons=true&border_color=32CD32&locale=pt-br" Height = "155px" />
 
 <!-- views -->
 ![](https://komarev.com/ghpvc/?username=DenricoL&color=006400)
-
-
-
 
 <!--
 (nothing burger)
