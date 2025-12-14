@@ -1,4 +1,6 @@
 # Douglas Loureiro
+<!-- gif -->
+<img align="right" src="https://github.com/user-attachments/assets/bfd2f8a7-d70c-46a0-b181-5431fc2dcc4c" width = "40%" />
 
 <div align="left">
 Hi! I'm a web developer and designer/editor.
@@ -9,8 +11,6 @@ Hi! I'm a web developer and designer/editor.
 <br>
 
 ## Main Tech Stack
-<!-- gif -->
-<img align="right" src="https://github.com/user-attachments/assets/bfd2f8a7-d70c-46a0-b181-5431fc2dcc4c" width = "50%" />
 
 <div>
   
