@@ -1,35 +1,32 @@
 # Douglas Loureiro
+
+<div align="left">
 Hi! I'm a web developer and designer/editor.
-- I am currently studying Systems Analysis and Development, and improving my knowledge mainly in the areas of software development and UI/UX design.
+  
+- I am currently studying Systems Analysis and Development, <br> and improving my knowledge mainly in the areas of software <br> development and UI/UX design.
+</div>
 
-
-
-
+<br>
 
 ## Main Tech Stack
 <!-- gif -->
-<img align="right" src="https://github.com/user-attachments/assets/bfd2f8a7-d70c-46a0-b181-5431fc2dcc4c" width = "325px" />
+<img align="right" src="https://github.com/user-attachments/assets/bfd2f8a7-d70c-46a0-b181-5431fc2dcc4c" width = "40%" />
+
+<div align="center">
+  
+<!-- front-end --> 
+[![Front-end](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 <!-- back-end -->
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
-
-<!-- front-end --> 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+[![back-end](https://skillicons.dev/icons?i=cpp,java,python,mysql)](https://skillicons.dev)
 
 <!-- IDE -->
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Code::Blocks](https://img.shields.io/badge/Code::Blocks-41AD48.svg?style=for-the-badge&logo=Code::Blocks&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=for-the-badge&logo=Eclipse-IDE&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white)
+[![IDE](https://skillicons.dev/icons?i=vscode,eclipse,idea)](https://skillicons.dev)
 
 <!-- softwares -->
-![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black)
+[![softwares](https://skillicons.dev/icons?i=figma,unity,photoshop)](https://skillicons.dev)
 
+</div>
 
 ## Latest projects :octocat:
 <!-- DayLibras, Flu -->
