@@ -12,7 +12,7 @@ Hi! I'm a web developer and designer/editor.
 <!-- gif -->
 <img align="right" src="https://github.com/user-attachments/assets/bfd2f8a7-d70c-46a0-b181-5431fc2dcc4c" width = "40%" />
 
-<div align="center">
+<div>
   
 <!-- front-end --> 
 [![Front-end](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
