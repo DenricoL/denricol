@@ -25,13 +25,9 @@ Hi! I'm a web developer and designer/editor.
 
 
 ## Latest projects :octocat:
-<!-- DayLibras -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DenricoL&repo=daylibras-webapp&border_color=FFFFFF&title_color=fff&bg_color=DEG,004080,b0e6ff&text_color=ffffff&icon_color=fff)](https://github.com/DenricoL/daylibras-webapp)  <br>
-<img width="400" height="auto" alt="DayLibras" src="https://github.com/user-attachments/assets/444be527-4ece-485b-a1b8-72d2f9270150" />
-
-<!-- Flu -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DenricoL&repo=Flusite&border_color=FFFFFF&title_color=fff&bg_color=DEG,260000,292929,002b0b&text_color=ffffff&icon_color=fff)](https://github.com/DenricoL/Site_do_Flu) <br>
-<img width="400" height="auto" alt="Flusite" src="https://github.com/user-attachments/assets/b47dee9c-46c0-44b9-8a1f-d222650a4ef7" />
+<!-- DayLibras, Flu -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DenricoL&repo=daylibras-webapp&border_color=FFFFFF&title_color=fff&bg_color=DEG,004080,b0e6ff&text_color=ffffff&icon_color=fff)](https://github.com/DenricoL/daylibras-webapp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DenricoL&repo=Flusite&border_color=FFFFFF&title_color=fff&bg_color=DEG,260000,292929,002b0b&text_color=ffffff&icon_color=fff)](https://github.com/DenricoL/Site_do_Flu)
 
 <!-- views -->
 ![](https://komarev.com/ghpvc/?username=DenricoL&color=006400)
