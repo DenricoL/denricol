@@ -3,12 +3,12 @@
 <div align="left">
 Hi! I'm a web developer and designer/editor.
   
-- I am currently studying Systems Analysis and Development, <br> and improving my knowledge mainly in the areas of software <br> development and UI/UX design.
+- I am currently studying Systems Analysis and Development, and improving my knowledge mainly in the areas of software development and UI/UX design.
 </div>
 
 ## Main Tech Stack
 <!-- gif -->
-<img align="right" src="https://github.com/user-attachments/assets/bfd2f8a7-d70c-46a0-b181-5431fc2dcc4c" width = "42%" />
+<img align="right" src="https://github.com/user-attachments/assets/bfd2f8a7-d70c-46a0-b181-5431fc2dcc4c" width = "62%" />
 <div>
   
 <!-- front-end --> 
