@@ -39,7 +39,7 @@ Hi! I'm a web developer and designer/editor.
 <!-- views -->
 ![](https://komarev.com/ghpvc/?username=DenricoL&color=006400)
 
-## Contact 
+## Talk to me! 
 [<img src="https://skillicons.dev/icons?i=gmail" />](mailto:delbing4768@gmail.com)
 
 
