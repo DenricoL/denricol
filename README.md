@@ -8,7 +8,7 @@ Hi! I'm a web developer and designer/editor.
 
 ## Main Tech Stack
 <!-- gif -->
-<img align="right" src="https://github.com/user-attachments/assets/bfd2f8a7-d70c-46a0-b181-5431fc2dcc4c" width = "62%" />
+<img align="right" src="https://github.com/user-attachments/assets/bfd2f8a7-d70c-46a0-b181-5431fc2dcc4c" width = "43%" />
 <div>
   
 <!-- front-end --> 
