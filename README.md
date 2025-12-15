@@ -1,6 +1,4 @@
 # Douglas Loureiro
-<!-- gif -->
-<img align="right" src="https://github.com/user-attachments/assets/bfd2f8a7-d70c-46a0-b181-5431fc2dcc4c" width = "32%" />
 
 <div align="left">
 Hi! I'm a web developer and designer/editor.
@@ -8,10 +6,9 @@ Hi! I'm a web developer and designer/editor.
 - I am currently studying Systems Analysis and Development, <br> and improving my knowledge mainly in the areas of software <br> development and UI/UX design.
 </div>
 
-<br> <br>
-
 ## Main Tech Stack
-
+<!-- gif -->
+<img align="right" src="https://github.com/user-attachments/assets/bfd2f8a7-d70c-46a0-b181-5431fc2dcc4c" width = "42%" />
 <div>
   
 <!-- front-end --> 
