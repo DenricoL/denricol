@@ -5,7 +5,7 @@
 <div align="left">
 Hi! I'm a web developer and designer/editor.
   
-- I am currently studying Systems Analysis and Development, <br> and improving my knowledge mainly in the areas of software <br> development and UI/UX design.
+- I am currently studying Systems Analysis and Development,and improving my knowledge mainly in the areas of software development and UI/UX design.
 </div>
 
 <br> <br>
