@@ -8,19 +8,30 @@ Hi! I'm a web developer and designer/editor.
 
 ## Main Tech Stack
 <!-- gif -->
-<img align="right" src="https://github.com/user-attachments/assets/bfd2f8a7-d70c-46a0-b181-5431fc2dcc4c" width = "47%" />
-<div>
+<div align="right">
+  <img align="right" src="https://github.com/user-attachments/assets/bfd2f8a7-d70c-46a0-b181-5431fc2dcc4c" width = "52%" />
+</div>
+
+<div align="left">
   
-<!-- front-end --> 
+<!-- front-end -->
+<h3>Front-End</h3>
+
 [![Front-end](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 <!-- back-end -->
+<h3>Back-End & Databases</h3>
+
 [![back-end](https://skillicons.dev/icons?i=cpp,java,python,mysql)](https://skillicons.dev)
 
 <!-- IDE -->
+<h3>IDE</h3>
+
 [![IDE](https://skillicons.dev/icons?i=vscode,eclipse,idea)](https://skillicons.dev)
 
 <!-- softwares -->
+<h3>Softwares</h3>
+
 [![softwares](https://skillicons.dev/icons?i=figma,unity,photoshop)](https://skillicons.dev)
 
 </div>
