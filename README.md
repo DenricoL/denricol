@@ -25,7 +25,7 @@ Hi! I'm a web developer and designer/editor.
 [![back-end](https://skillicons.dev/icons?i=cpp,java,python,mysql)](https://skillicons.dev)
 
 <!-- IDE -->
-<h3>IDE</h3>
+<h3>IDEs</h3>
 
 [![IDE](https://skillicons.dev/icons?i=vscode,eclipse,idea)](https://skillicons.dev)
 
