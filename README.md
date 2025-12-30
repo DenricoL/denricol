@@ -1,4 +1,4 @@
-![seeya](https://github.com/user-attachments/assets/88289f60-fea2-4308-b209-6d807229b00a)
+
 
 <div align="center">
   <h1> Hello! </h1>
