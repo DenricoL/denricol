@@ -1,4 +1,5 @@
 ![edwongg](https://github.com/user-attachments/assets/6788baec-b333-4024-abd7-00283425d9b0)
+<!-- art source https://www.reddit.com/r/cowboybebop/comments/1fm2qi2/guess_my_favorite_character -->
 
 <div align="center">
   <h1> Hello! </h1>
