@@ -1,54 +1,26 @@
-# Douglas Loureiro
+![seeya](https://github.com/user-attachments/assets/88289f60-fea2-4308-b209-6d807229b00a)
 
-<div align="left">
-Hi! I'm a web developer and designer/editor.
-  
-- I am currently studying Systems Analysis and Development, and improving my knowledge mainly in the areas of software development and UI/UX design.
-</div>
-
-## Main Tech Stack
-<!-- gif -->
-<div align="right">
-  <img align="right" src="https://github.com/user-attachments/assets/bfd2f8a7-d70c-46a0-b181-5431fc2dcc4c" width = "52%" />
+<div align="center">
+  <h1> Hello! </h1>
+  <p> I'm Douglas, welcome to my profile. </p>
+  <br><br><br>
 </div>
 
 <div align="left">
+  <h2>My main tech stack</h2>  
+
+| Front-end | Back-end | IDEs | Softwares |
+|-----------|----------|-------|---------|
+| [![Front-end](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev) | [![back-end](https://skillicons.dev/icons?i=cpp,java,python,mysql)](https://skillicons.dev) | [![IDE](https://skillicons.dev/icons?i=vscode,eclipse,idea)](https://skillicons.dev) | [![softwares](https://skillicons.dev/icons?i=figma,unity,photoshop)](https://skillicons.dev) |
+
   
-<!-- front-end -->
-<h3>Front-End</h3>
-
-[![Front-end](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
-
-<!-- back-end -->
-<h3>Back-End & Databases</h3>
-
-[![back-end](https://skillicons.dev/icons?i=cpp,java,python,mysql)](https://skillicons.dev)
-
-<!-- IDE -->
-<h3>IDEs</h3>
-
-[![IDE](https://skillicons.dev/icons?i=vscode,eclipse,idea)](https://skillicons.dev)
-
-<!-- softwares -->
-<h3>Softwares</h3>
-
-[![softwares](https://skillicons.dev/icons?i=figma,unity,photoshop)](https://skillicons.dev)
-
 </div>
 
-## Latest projects :octocat:
-<!-- DayLibras, Flu -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DenricoL&repo=daylibras-webapp&border_color=FFFFFF&title_color=fff&bg_color=DEG,004080,b0e6ff&text_color=ffffff&icon_color=fff)](https://github.com/DenricoL/daylibras-webapp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DenricoL&repo=Flusite&border_color=FFFFFF&title_color=fff&bg_color=DEG,260000,292929,002b0b&text_color=ffffff&icon_color=fff)](https://github.com/DenricoL/Site_do_Flu)
-
-## My stats
-<img src="https://github-readme-stats.vercel.app/api?username=DenricoL&theme=chartreuse-dark&icons=true&border_color=32CD32&locale=pt-br" Height = "155px " /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenricoL&layout=compact&theme=chartreuse-dark&icons=true&border_color=32CD32&locale=pt-br" Height = "155px" />
-
-<!-- views -->
-![](https://komarev.com/ghpvc/?username=DenricoL&color=006400)
-
-## Talk to me! 
-[<img src="https://skillicons.dev/icons?i=gmail" />](mailto:delbing4768@gmail.com)
+<div align="left">
+  <h2>Talk to me!</h2>
+  
+  [<img src="https://skillicons.dev/icons?i=gmail" />](mailto:delbing4768@gmail.com)
+</div>
 
 
 <!--
