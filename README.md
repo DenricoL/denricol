@@ -6,7 +6,7 @@
   <br>
 </div>
 
-<div align="left">
+<div align="center">
   <h2>My main tech stack</h2>  
 
 | Front-end | Back-end | IDEs | Softwares |
@@ -16,7 +16,7 @@
   
 </div>
 
-<div align="left">
+<div align="center">
   <h2>Talk to me!</h2>
   
   [<img src="https://skillicons.dev/icons?i=gmail" />](mailto:delbing4768@gmail.com)
