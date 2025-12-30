@@ -1,3 +1,5 @@
+![edwongg](https://github.com/user-attachments/assets/6788baec-b333-4024-abd7-00283425d9b0)
+
 <div align="center">
   <h1> Hello! </h1>
   <p> I'm Douglas, welcome to my profile. </p>
