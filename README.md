@@ -21,4 +21,12 @@
   <h2>Talk to me!</h2>
   
   [<img src="https://skillicons.dev/icons?i=gmail" />](mailto:delbing4768@gmail.com)
+  
 </div>
+
+## 
+  <div align="center">
+    
+  ![](https://komarev.com/ghpvc/?username=DenricoL&color=006400)  
+    
+  </div>
