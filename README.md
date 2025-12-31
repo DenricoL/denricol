@@ -27,6 +27,6 @@
 ## 
   <div align="center">
     
-  ![](https://komarev.com/ghpvc/?username=DenricoL&color=006400)  
+  ![](https://komarev.com/ghpvc/?username=DenricoL&color=b9400b)  
     
   </div>
