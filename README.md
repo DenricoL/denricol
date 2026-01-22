@@ -18,6 +18,11 @@
 </div>
 
 <div align="center">
+  <h2> My stats </h2>
+<img src="https://github-readme-stats.vercel.app/api?username=DenricoL&theme=chartreuse-dark&icons=true&border_color=32CD32&locale=pt-br" Height = "155px " /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenricoL&layout=compact&theme=chartreuse-dark&icons=true&border_color=32CD32&locale=pt-br" Height = "155px" />
+</div>
+
+<div align="center">
   <h2>Talk to me!</h2>
   
   [<img src="https://skillicons.dev/icons?i=gmail" />](mailto:delbing4768@gmail.com)
