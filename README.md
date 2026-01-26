@@ -3,12 +3,12 @@
 
 <div align="center">
   <h1> Hello! </h1>
-  <p> I'm Douglas, welcome to my profile. </p>
+  <p> Welcome to my profile. </p>
   <br>
 </div>
 
 <div align="center">
-  <h2>My main tech stack</h2>  
+  <h2>💻</h2>  
 
 | Front-end | Back-end | IDEs | Softwares |
 |-----------|----------|-------|---------|
@@ -18,13 +18,13 @@
 </div>
 
 <div align="center">
-  <h2> My stats </h2>
+  <h2>📊 </h2>
 <img src="https://github-readme-stats.vercel.app/api?username=DenricoL&theme=chartreuse-dark&icons=true&title_color=FE530C&border_color=FE530C" Height = "155px " /> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenricoL&layout=compact&theme=chartreuse-dark&title_color=FE530C&icons=true&border_color=FE530C" Height = "155px" />
 </div>
 
 <div align="center">
-  <h2>Talk to me!</h2>
+  <h2>💬</h2>
   
   [<img src="https://skillicons.dev/icons?i=gmail" />](mailto:delbing4768@gmail.com)
   
