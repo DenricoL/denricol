@@ -24,7 +24,7 @@
 </div>
 
 <div align="center">
-  <h2>💬</h2>
+  <h2>📧</h2>
   
   [<img src="https://skillicons.dev/icons?i=gmail" />](mailto:delbing4768@gmail.com)
   
