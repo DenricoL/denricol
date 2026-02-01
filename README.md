@@ -18,12 +18,6 @@
 </div>
 
 <div align="center">
-  <h2>📊 </h2>
-<img src="https://github-readme-stats.vercel.app/api?username=DenricoL&theme=chartreuse-dark&icons=true&title_color=FE530C&border_color=FE530C" Height = "155px " /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenricoL&layout=compact&theme=chartreuse-dark&title_color=FE530C&icons=true&border_color=FE530C" Height = "155px" />
-</div>
-
-<div align="center">
   <h2>📧</h2>
   
   [<img src="https://skillicons.dev/icons?i=gmail" />](mailto:delbing4768@gmail.com)
