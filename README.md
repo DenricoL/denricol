@@ -1,7 +1,7 @@
 
 <!-- 
 ![edwongg](https://github.com/user-attachments/assets/6788baec-b333-4024-abd7-00283425d9b0)
-art source https://www.reddit.com/r/cowboybebop/comments/1fm2qi2/guess_my_favorite_character <img width="593" height="421" alt="32a0838c2807ac7e958236a3b5152317-removebg-preview" src="https://github.com/user-attachments/assets/c24dc13d-0918-4ca2-aaa3-3cca0c8cb786" />-->
+art source https://www.reddit.com/r/cowboybebop/comments/1fm2qi2/guess_my_favorite_character -->
 
 
 
